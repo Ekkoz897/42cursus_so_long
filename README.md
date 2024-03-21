@@ -67,17 +67,17 @@ And can only contain these characters:
     
 | CHAR |	OBJECT   |
 | --------- | ---------- |
-| 1         |   Wall   |
-| C	        | Coin |
-| E	        |   Exit  |
-| P         |   Player  |      
-| 0         |   Floor     |
+| 1         |   Wall     |
+| C	    |   Food     |
+| E	    |   Exit     |
+| P         |   Player   |      
+| 0         |   Floor    |
     
 For bonus there's an extra character - which makes you lose once touch it.
     
 | CHAR |	OBJECT   |
 | --------- | ---------- |
-| T         |   Toxic River  |
+| G         |   deadly lake  |
 
 
 The map must be rectangular and surrounded by walls '1'.
