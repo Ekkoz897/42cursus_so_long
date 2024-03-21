@@ -1,7 +1,7 @@
 <h1 align="center"> 42cursus_So_long </h1>
 <p align="center">:information_source: A small 2D Game made using the MiniLibX Graphics Library - Textures, sprites and tiles included. </p>
 
-<p align="center"><a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png"> </a></p>
+<p align="center"><a href="https://github.com/ekkoz897/42cursus_So_long" target="_blank"><img align="center" alt="so_long" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png"> </a></p>
 <p align="center">125/100 :white_check_mark:</p>
 
 ## Index
