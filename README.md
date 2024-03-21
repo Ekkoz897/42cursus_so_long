@@ -102,7 +102,7 @@ This .ber file generates this map:
 | A	or ⬅️        |    Move left |
 | S	or ⬇️     |    Move down   |
 | D or ➡️       |   Move para right|      
-| Q or Esc      |   Close the game     | 
+| Esc      |   Close the game     | 
     
     
 Use WASD or arrow keys to move.
