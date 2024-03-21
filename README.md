@@ -77,7 +77,7 @@ For bonus there's an extra character - which makes you lose once touch it.
     
 | CHAR |	OBJECT   |
 | --------- | ---------- |
-| G         |   deadly lake  |
+| G         |   Deadly lake  |
 
 
 The map must be rectangular and surrounded by walls '1'.
@@ -107,7 +107,7 @@ This .ber file generates this map:
     
 Use WASD or arrow keys to move.
 	
-You can close the game by Clicking on the red cross on the window’s frame, or pressing Q or Esc.
+You can close the game by Clicking on the red cross on the window’s frame, or pressing Esc.
 	
 <h2 align="center" id="how-do-i-test-it"> How do I test it? </h2>  
 
